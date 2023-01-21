@@ -38,7 +38,7 @@ Import the necessary python libraries.
 
 ## Screenshot
 
-  ![App Screenshot](https://github.com/Deepak-ODRDLabs/Typing_Speed_test/blob/main/Running%20screenshot/Screenshot%202022-12-14%20215748.png)
+  ![App Screenshot](https://github.com/Deepak-ODRDLabs/Typing_Speed_test/blob/main/Result/Screenshot%202022-12-14%20215748.png)
 
 
 
